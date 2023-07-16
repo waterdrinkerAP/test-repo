@@ -1,5 +1,5 @@
 # Participation List
 
 1. ANPetrov
-1. Atanas Petrov
-1. Nasko Petrov
+2. Atanas Petrov
+3. Nasko Petrov
