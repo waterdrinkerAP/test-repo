@@ -1,0 +1,4 @@
+*.txt
+!test.txt
+!npetrov.txt
+temp/
